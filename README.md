@@ -1,1 +1,1 @@
-# about-me
+Mestre em Ciência da Computação pela Universidade Estadual de Maringá desde 2013. Atualmente, está vinculado ao Programa de Pós-Graduação da Universidade Federal de Santa Catarina (UFSC), no projeto de soluções para escalonamento de robôs móveis em armazéns inteligentes.
